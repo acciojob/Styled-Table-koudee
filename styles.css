@@ -1,1 +1,17 @@
 /* your code */
+.table{
+
+}
+.table, td {
+ 
+}
+.table,thead,th{
+	background-color:#205b8e;
+	color:white;
+}
+.table,thead,th,td{
+	padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #dddcdc;
+}
